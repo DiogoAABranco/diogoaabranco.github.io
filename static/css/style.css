@@ -1,0 +1,23 @@
+.gallery-roll {
+  display: flex;
+  overflow-x: auto;
+  gap: 10px;
+  padding: 10px;
+  scroll-behavior: smooth;
+  -webkit-overflow-scrolling: touch;
+  scrollbar-width: thin;
+}
+
+.gallery-roll img {
+  flex: 0 0 auto;
+  width: 200px;
+  height: 150px;
+  object-fit: cover; /* This crops */
+  border-radius: 4px;
+  cursor: pointer;
+  transition: transform 0.3s ease;
+}
+
+.gallery-roll img:hover {
+  transform: scale(1.05);
+}

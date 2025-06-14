@@ -1,0 +1,12 @@
+{{ if ge (len .Params) 2 }}
+  {{ $folder := index .Params 0 }}
+  <div class="gallery-roll">
+    {{ range (after 1 .Params) }}
+      <a href="/images/{{ $folder }}/{{ . }}" target="_blank" rel="noopener noreferrer">
+        <img src="/images/{{ $folder }}/{{ . }}" width="200" />
+      </a>
+    {{ end }}
+  </div>
+{{ else }}
+  <p>Error: gallery shortcode requires at least one folder and one image.</p>
+{{ end }}

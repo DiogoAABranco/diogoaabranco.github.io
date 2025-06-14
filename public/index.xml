@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Diogo Branco</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on Diogo Branco</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About Me</title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/about/</guid>
+      <description>&lt;p&gt;I am a Ph.D. candidate in Informatics Engineering at the &lt;a href=&#34;https://www.uma.pt/&#34;  class=&#34;external-link&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;University of Madeira&lt;/a&gt;. My academic background is rooted in Clinical Psychology, with both bachelor&amp;rsquo;s and master&amp;rsquo;s degrees in the field.&lt;/p&gt;&#xA;&lt;p&gt;As a multidisciplinary researcher, I work at the intersection of psychology, neuroscience, and technology. My doctoral research, conducted within the &lt;a href=&#34;https://neurorehablab.arditi.pt/&#34;  class=&#34;external-link&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;NeuroRehabLab&lt;/a&gt;, focuses on Human-Machine Interaction (HMI) for motor and mental rehabilitation. I aim to develop innovative, tech-driven solutions that enhance the quality of life for individuals with special needs.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Awards &amp; Achievements</title>
+      <link>http://localhost:1313/awards/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/awards/</guid>
+      <description>&lt;h2 id=&#34;&#34;&gt;&#xD;&#xA;  &#xD;&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#&#34;&gt;&#xD;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xD;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xD;&#xA;  &lt;/a&gt;&#xD;&#xA;&lt;/h2&gt;&#xD;&#xA;&lt;h2 id=&#34;finished-internship-for-portuguese-order-of-psychologists&#34;&gt;&#xD;&#xA;  Finished Internship for &lt;a href=&#34;https://www.ordemdospsicologos.pt/pt&#34;  class=&#34;external-link&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Portuguese Order of Psychologists&lt;/a&gt;&#xD;&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#finished-internship-for-portuguese-order-of-psychologists&#34;&gt;&#xD;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xD;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xD;&#xA;  &lt;/a&gt;&#xD;&#xA;&lt;/h2&gt;&#xD;&#xA;&lt;p&gt;I am now a &lt;strong&gt;Membro Efectivo da Ordem dos Psicólogos Portugueses&lt;/strong&gt;!&#xA;This milestone marks the culmination of my year as a &lt;strong&gt;Junior Psychologist at the &lt;a href=&#34;https://neurorehablab.ulusofona.pt/&#34;  class=&#34;external-link&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;NeuroRehabLab&lt;/a&gt;&lt;/strong&gt;, where I had the incredible opportunity to contribute to multiple groundbreaking research projects.&lt;/p&gt;&#xA;&lt;p&gt;🚀 One of the highlights was working on the &lt;strong&gt;Neurow project&lt;/strong&gt;, where we implemented a rehabilitation program for stroke patients using a &lt;strong&gt;Brain-Computer Interface (BCI)&lt;/strong&gt; paradigm combined with &lt;strong&gt;Virtual Reality&lt;/strong&gt;.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Publications</title>
+      <link>http://localhost:1313/papers/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/papers/</guid>
+      <description>&lt;h2 id=&#34;journal-publications&#34;&gt;&#xD;&#xA;  Journal Publications&#xD;&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#journal-publications&#34;&gt;&#xD;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xD;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xD;&#xA;  &lt;/a&gt;&#xD;&#xA;&lt;/h2&gt;&#xD;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Faria, A. L., Almeida, Y., &lt;strong&gt;&lt;strong&gt;&lt;strong&gt;Branco, D.&lt;/strong&gt;&lt;/strong&gt;&lt;/strong&gt;, Câmara, J., Cameirão, M., Ferreira, L., Moreira, A., Paulino, T., Rodrigues, P., Spinola, M., et al. &lt;em&gt;“NeuroAIreh@b: an artificial intelligence-based methodology for personalized and adaptive neurorehabilitation”&lt;/em&gt;.  &lt;strong&gt;Frontiers in Neurology&lt;/strong&gt;, 14 (2024), p. 1258323. DOI: &lt;a href=&#34;https://doi.org/10.3389/fneur.2023.1258323&#34;  class=&#34;external-link&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;10.3389/fneur.2023.1258323&lt;/a&gt;&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;em&gt;&lt;strong&gt;Branco, D.&lt;/strong&gt;&lt;/em&gt;, Gonçalves, Ó. F., and Badia, S. B. i. &lt;em&gt;“A Systematic Review of International Affective Picture System (IAPS) around the World”&lt;/em&gt;.&#xA;&lt;strong&gt;Sensors&lt;/strong&gt;, 23(8) (2023).  ISSN: 1424-8220. DOI: &lt;a href=&#34;https://doi.org/10.3390/s23083866&#34;  class=&#34;external-link&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;10.3390/s23083866&lt;/a&gt;.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Tools</title>
+      <link>http://localhost:1313/tools/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tools/</guid>
+      <description>&lt;h2 id=&#34;reliable-change-index-rci&#34;&gt;&#xD;&#xA;  Reliable Change Index (RCI)&#xD;&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#reliable-change-index-rci&#34;&gt;&#xD;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xD;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xD;&#xA;  &lt;/a&gt;&#xD;&#xA;&lt;/h2&gt;&#xD;&#xA;&lt;p&gt;The &lt;strong&gt;Reliable Change Index (RCI)&lt;/strong&gt; is a statistical method used to determine whether the change in a patient’s score on a psychological measure over time is statistically significant and not due to measurement error. It helps to distinguish &lt;strong&gt;meaningful clinical improvement&lt;/strong&gt; from random fluctuations or measurement noise.&lt;/p&gt;&#xA;&lt;p&gt;RCI is calculated by comparing the difference between pre-treatment and post-treatment scores against the standard error of the difference. If the observed change exceeds a critical threshold (usually ±1.96 times the standard error), it is considered a &lt;strong&gt;reliable change&lt;/strong&gt;.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
