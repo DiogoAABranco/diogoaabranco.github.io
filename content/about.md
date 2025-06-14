@@ -20,7 +20,7 @@ Currently, I’m building Virtual Reality frameworks that leverage affective com
 ## Skills
 
 - **Programming**: C#, R, Python  
-- **Statistical Data Analysis**: SPSS, R Studio, Python (Pandas, SciPy, Matplotlib, Seaborn)  
+- **Statistical Data Analysis**: SPSS, R Studio, Python (Pandas, SciPy, Matplotlib)  
 - **Psychology Specific Software**: E-PRIME, OpenSesame, PsychoPy  
 - **Tools & Frameworks**: Unity 3D, PyTorch, TensorFlow, Scikit-learn, Adobe Photoshop, Reaper  
 - **Languages**: English, Portuguese
