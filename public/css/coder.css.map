@@ -1,7 +1,7 @@
 {
 	"version": 3,
 	"file": "coder.css",
-	"sourceRoot": "C:/Users/DiogoBranco/Downloads/inesgomes.github.io-main",
+	"sourceRoot": "F:/UnityProjects/diogoaabranco.github.io",
 	"sources": [
 		"themes/hugo-coder/assets/scss/coder.scss",
 		"themes/hugo-coder/assets/scss/css/normalize.css",
