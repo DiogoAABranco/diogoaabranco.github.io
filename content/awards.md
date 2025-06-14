@@ -3,9 +3,7 @@ title = 'Awards & Achievements'
 draft = false
 +++
 
-## 
-
-## Finished Internship for [Portuguese Order of Psychologists](https://www.ordemdospsicologos.pt/pt)
+## Finished Professional Internship for [Portuguese Order of Psychologists](https://www.ordemdospsicologos.pt/pt)
 
 I am now a **Membro Efectivo da Ordem dos Psicólogos Portugueses**! 
 This milestone marks the culmination of my year as a **Junior Psychologist at the [NeuroRehabLab](https://neurorehablab.ulusofona.pt/)**, where I had the incredible opportunity to contribute to multiple groundbreaking research projects.
@@ -37,13 +35,16 @@ In this game, you play as a crab inspired by the coastal spirit of **Malta**, us
 
 Your enemies? Other crabs and pesky seagulls trying to invade your beach. This chaotic, creative, and collaborative project earned us **3rd place**!
 
+TEAM: Diogo Branco, Nuno Vicente Barreto, Bogdan Okreša Đurić, Jovana Dimitrijević, Lana Rossato, Tania Sari Bonaventura, Claudia Melis Tonti, Mano Marichal, Sotiris Piliouras and Stergios Kokorotsikos
+
 {{< gallery "SS2024" "1.jpg" "2.jpg" "3.jpg" "4.jpg" "5.jpg" "6.jpg" "7.jpg" >}}
 
 {{< youtube 0azBQpQKgng >}}
+
+
+
 ---
 ## Visit to [Institute of Digital Games (IDG)](https://www.game.edu.mt/) 
-
-
 
 One month visit to [Institute of Digital Games (IDG)](https://www.game.edu.mt/) training on Procedural Content Generation using Reinforcement Learning controlled for affective content under the supervision of [Professor Ahmed Khalifa](https://www.um.edu.mt/profile/ahmedkhalifa). Funded by the Project ”Consortium Advanced Computing - HPC, HPDA, AI & HPV” (2021-1-PT01-KA131-HED-000008876) under the Erasmus + Program, Education and Training 2021 - Higher Education - Action KA131 - Mobility for Learning Purposes.
 
@@ -80,8 +81,7 @@ This work is supervised by [Professor Sergi Bermúdez I Badia](https://www.uma.p
 
 {{< youtube m2Sx5xrfpSo >}}
 
---- 
----
+
 ---
 
 ## FEE Waiver for [PracticalMEEG 2019](https://practicalmeeg2019.org/) At ICM, Paris, France
@@ -89,3 +89,4 @@ MEG and EEG analysis requires balancing efficiency, usability, and method-specif
 
 ![PracticalMEEGTimeTable](/images/PracticalMEEG2019/TimeTable.jpg)
 
+---
