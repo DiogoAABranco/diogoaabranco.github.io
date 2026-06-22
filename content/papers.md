@@ -5,6 +5,14 @@ draft = false
 
 ## Journal Publications
 
+- ***Branco, D.***, Fernandes, M. C., i Badia, S. B., & Faria, A. L. (2026). *“Emotional Daily Life Library (E-DLL): Validation of a database of 3D objects for emotion elicitation.”* ***International Journal of Clinical and Health Psychology***, 26(2), 100690. DOI: [10.1016/j.ijchp.2026.100690](https://doi.org/10.1016/j.ijchp.2026.100690)
+  
+- Palhares, P. T., ***Branco, D.***, & Gonçalves, Ó. F. (2026). *“Mind-wandering facilitates creative performance in a musical improvisation task.”* ***Consciousness and Cognition***, 141, 104048. DOI: [10.1016/j.concog.2026.104048](https://doi.org/10.1016/j.concog.2026.104048)
+  
+- Lima, R., ***Branco, D.***, & Lobo, P. *“Flow Optimizer Framework: Validation of a Dynamic Difficulty Adjustment System for Serious Games.”* ***Games for Health Journal***. DOI: [10.1177_2161783X251414444](https://doi.org/10.1177_2161783X251414444)
+ 
+- Valente, M., ***Branco, D.***, Bermúdez i Badia, S., Fernandes, J. C., Figueiredo, P., & Vourvopoulos, A. (2026). *“EEG-based predictors of motor recovery during immersive VR-BCI rehabilitation.”* ***Scientific Reports***, 16(1), 7870. DOI: [10.1038/s41598-026-39106-1](https://doi.org/10.1038/s41598-026-39106-1)
+  
 - Faria, A. L., Almeida, Y., ******Branco, D.******, Câmara, J., Cameirão, M., Ferreira, L., Moreira, A., Paulino, T., Rodrigues, P., Spinola, M., et al. *“NeuroAIreh@b: an artificial intelligence-based methodology for personalized and adaptive neurorehabilitation”*.  **Frontiers in Neurology**, 14 (2024), p. 1258323. DOI: [10.3389/fneur.2023.1258323](https://doi.org/10.3389/fneur.2023.1258323)
 
 - ***Branco, D.***, Gonçalves, Ó. F., and Badia, S. B. i. *“A Systematic Review of International Affective Picture System (IAPS) around the World”*.
@@ -23,6 +31,12 @@ draft = false
 - Dias da Silva, M. R., Faber, M., Andrade ***Branco, D.*** A. de, and Postma, M. *“Mind and Body: The Manifestation of Mind Wandering in Bodily Behaviors”*. In: *New Perspectives on Mind-Wandering*. Springer International Publishing, 2022, pp. 59–75. ISBN: 978-3-031-06954-3, 978-3-031-06955-0. DOI: [10.1007/978-3-031-06955-0_4](https://doi.org/10.1007/978-3-031-06955-0_4).
 
 ## Full Conference Publications
+
+- Araújo, E., Silva, P. A., Bermúdez i Badia, S., ***Branco, D.***, & Pilacinski, A. (2026, March). *“PEHRCIVE: Platform for Evaluating Human-Robot Collaboration and Interaction in Virtual Environments.”* In *Proceedings of the 21st ACM/IEEE International Conference on Human-Robot Interaction* (pp. 30-38). DOI: [10.1145/3757279.3785622](https://doi.org/10.1145/3757279.3785622)
+
+- Paulino, T., Câmara, J., ***Branco, D.***, Ferreira, L., Mata, D., Teixeira, F., ... & Cameirão, M. S. (2026). *“Towards Personalized and Continuously Adaptive Cognitive Training with the Reh@ Sync: A Pilot Study Series.”* In *BIOSTEC* (4) (pp. 245-252). DOI: [10.5220/0014304000004070](https://www.scitepress.org/Link.aspx?doi=10.5220/0014304000004070)
+ 
+- Paulino, T., Câmara, J., ***Branco, D.***, Ferreira, L., Spínola, M., Faria, A. L., ... & Cameirão, M. S. (2026). *“Human-Centered Design of the NeuroAIreh@b: A Tablet-Based Platform for Remote Cognitive Training.”* In *BIOSTEC* (4) (pp. 383-391).DOI: [10.5220/0014343700004070](https://www.scitepress.org/Link.aspx?doi=10.5220/0014343700004070)
 
 - Barthet, M., ***Branco, D.***, Gallotta, R., Khalifa, A., and Yannakakis, G. N. *“Closing the Affective Loop via Experience-Driven Reinforcement Learning Designers”*. In: *2024 12th International Conference on Affective Computing and Intelligent Interaction (ACII)*. IEEE Computer Society, 2024, pp. 257–265.  
   DOI: [10.1109/ACII63134.2024.00034](https://doi.org/10.1109/ACII63134.2024.00034).
